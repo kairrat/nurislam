@@ -328,7 +328,7 @@
   color: #fff;
   text-transform: uppercase;
   margin-top: 10rem;
-  font-size: calc(24px + 8 * ((100vw - 320px) / (1600 - 320)));
+  font-size: calc(28px + 8 * ((100vw - 320px) / (1600 - 320)));
 
 }
 .contact_adress_title   {
@@ -336,7 +336,9 @@
     display: flex;
     margin: 0 auto;
     align-items: center;
-    margin-left: 55px;
+    font-size: calc(24px + 8 * ((100vw - 320px) / (1600 - 320)));
+
+    margin-left:75px;
 }
 .contact_text   {
     margin: 0 auto;
@@ -363,7 +365,7 @@
 .contact_adress_text    {
     margin-top: 0.4rem;
     color: #fff;
-    font-size: calc(8px + 8 * ((100vw - 320px) / (1600 - 320)));
+    font-size: calc(12px + 8 * ((100vw - 320px) / (1600 - 320)));
 
 }
 .contact_adress_subtext {
@@ -382,7 +384,7 @@
 .contact_tel_text   {
     margin-top: 0.4rem;
     color: #fff;
-    font-size: calc(10px + 8 * ((100vw - 320px) / (1600 - 320)));
+    font-size: calc(12px + 8 * ((100vw - 320px) / (1600 - 320)));
 
 }
 
